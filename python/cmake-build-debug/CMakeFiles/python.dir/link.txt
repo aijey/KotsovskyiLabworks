@@ -1,0 +1,3 @@
+"D:\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\python.dir/objects.a
+C:\Users\Arturan\Downloads\i686-7.3.0-release-posix-dwarf-rt_v5-rev0\mingw32\bin\ar.exe cr CMakeFiles\python.dir/objects.a @CMakeFiles\python.dir\objects1.rsp
+C:\Users\Arturan\Downloads\i686-7.3.0-release-posix-dwarf-rt_v5-rev0\mingw32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\python.dir/objects.a -Wl,--no-whole-archive  -o python.exe -Wl,--out-implib,libpython.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\python.dir\linklibs.rsp
